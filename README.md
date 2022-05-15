@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=Hello,Swift!&fontSize=100&align=center)
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=header&text=Hello,Swift!&fontSize=50&align=center)
 
 <div align=center> 
   <h4> Hi. 🙌 <h4>
