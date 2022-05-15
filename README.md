@@ -4,4 +4,4 @@
 
 ![gkals4417's github stats](https://github-readme-stats.vercel.app/api?username=gkals4417&show_icons=true&theme=radical)
 
-<img src="https://img.shields.io/badge/swift-#F05138?style=flat-square&logo=Swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/Language-1f2023?style=flat&logo=Swift&logoColor=F05138"/></a>
