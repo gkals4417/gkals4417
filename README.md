@@ -18,3 +18,7 @@
 <div align=center>
   <h1>‼️Not perfect yet, but to be PERFECT‼️<h1>
 </div>
+
+    
+###### contact
+[![iCloud Badge](https://img.shields.io/badge/iCloud-1f2023?style=flat&logo=iCloud&logoColor=3693F3&link=mailto:gkals4417@icloud.com)](mailto:gkals4417@icloud.com)
