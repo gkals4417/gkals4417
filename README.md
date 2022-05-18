@@ -9,10 +9,18 @@
   <h5>I'm a 'Pulsar' student who aims to become a developer ⭐️<h4>
 </div>
 
----
-###### My Target Language.
-
-<img src="https://img.shields.io/badge/Swift-1f2023?style=flat&logo=Swift&logoColor=F05138"/></a>
---- 
-###### contact
-[![iCloud Badge](https://img.shields.io/badge/iCloud-1f2023?style=flat&logo=iCloud&logoColor=3693F3&link=mailto:gkals4417@icloud.com)](mailto:gkals4417@icloud.com)
+<hr/>
+<div align=center>
+  <h6>Language<h6>
+  <img src="https://img.shields.io/badge/Swift-FFFFFF?style=flat&logo=Swift&logoColor=F05138"/></a>
+</div>
+<hr/>
+<div align=center>
+  <h6>Tools<h6>
+  <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=flat&logo=GitHub&logoColor=181717"/></a>
+</div>
+<hr/>
+<div align=center>
+  <h6>contact<h6>
+  <a href="mailto:gkals4417@icloud.com"><img src=https://img.shields.io/badge/iCloud-FFFFFF?style=flat&logo=iCloud&logoColor=3693F3&link=mailto:gkals4417@icloud.com)></a>
+</div>
