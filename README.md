@@ -9,16 +9,10 @@
   <h5>I'm a 'Pulsar' student who aims to become a developer ⭐️<h4>
 </div>
 
-![gkals4417's github stats](https://github-readme-stats.vercel.app/api?username=gkals4417&show_icons=true&theme=radical)
-
+---
 ###### My Target Language.
 
 <img src="https://img.shields.io/badge/Swift-1f2023?style=flat&logo=Swift&logoColor=F05138"/></a>
----
-<div align=center>
-  <h1>‼️Not perfect yet, but to be PERFECT‼️<h1>
-</div>
-
-    
+--- 
 ###### contact
 [![iCloud Badge](https://img.shields.io/badge/iCloud-1f2023?style=flat&logo=iCloud&logoColor=3693F3&link=mailto:gkals4417@icloud.com)](mailto:gkals4417@icloud.com)
